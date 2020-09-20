@@ -1,0 +1,9 @@
+DRIVE/
+DRIVE_datasets_training_testing/
+__pycache__/
+*.npy
+*.hdf5
+test/
+*.pyc
+*.DS_Store
+
